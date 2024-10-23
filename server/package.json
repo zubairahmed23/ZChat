@@ -4,7 +4,8 @@
   "description": "SERVER FOR Z-CHAT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"NO TESTS AVAILABLE\""
+    "test": "echo \"NO TESTS AVAILABLE\"",
+    "dev":"nodemon index.js"
   },
   "author": "Sk Zubair Ahmed",
   "license": "ISC",

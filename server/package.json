@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"NO TESTS AVAILABLE\"",
-    "dev": "nodemon index.js"
+    "dev": "node index.js"
   },
   "author": "Sk Zubair Ahmed",
   "license": "ISC",
